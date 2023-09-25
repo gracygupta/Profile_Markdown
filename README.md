@@ -15,8 +15,7 @@ Hello, I'm Gracy Gupta, and I'm passionate about coding, technology, and open so
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gracygupta/)
-- [Twitter](https://twitter.com/gracygupta)
-- [Portfolio Website](https://www.gracygupta.com)
+- [Facebook](https://www.facebook.com/gracy.gupta04)
 
 Feel free to reach out to me on any of these platforms. I'm always excited to connect with fellow developers and tech enthusiasts.
 
@@ -24,33 +23,47 @@ Feel free to reach out to me on any of these platforms. I'm always excited to co
 
 I'm well-versed in a variety of technologies, and here are some of the tools and languages I work with:
 
-- **Languages:** JavaScript, Python, Java
-- **Frontend:** React, Vue.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js, Django
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **DevOps:** Docker, Kubernetes
-- **Cloud Services:** AWS, Azure
-- **Version Control:** Git, GitHub
-- **Other:** RESTful APIs, GraphQL, CI/CD
+- **Programming Languages:** C, C++, Java, Python, Bash
+- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, and Node.js)
+- **Web Server Deployment & Testing:** Nginx, PM2, Terminal Multiplexer, AutoCannon
+- **Data Structures & Algorithms**
+- **Database Management:** MySQL, MongoDB
+- **Computer Networking:** Socket programming, Network protocols, DNS configuration, and management
+- **AWS Services:** EC2, Elastic Beanstalk, Route 53, RDS
+- **Operating System:** Proficient in Linux
+- **Command-line Interface (CLI)**
+- **Aggregation Pipeline**
+
+### 🌱 Currently Exploring
+
+I'm always eager to expand my skill set and knowledge. Currently, I'm exploring:
+
+- **TypeScript:** Learning TypeScript to enhance type safety and code quality in my projects.
+
+- **DevOps:** Delving into DevOps practices, including CI/CD pipelines, containerization, and infrastructure as code (IaC), to streamline software development and deployment.
+
+Feel free to connect with me if you'd like to collaborate on projects, share insights, or explore these exciting technologies together!
 
 ## 📚 Projects
 
 I've worked on several exciting projects throughout my coding journey. You can find some of my open-source contributions and personal projects in my [GitHub repositories](https://github.com/gracygupta).
-
-## 📝 Blog
-
-I occasionally write about my coding experiences and tech-related topics on my [Medium blog](https://medium.com/@gracygupta). Feel free to check it out if you're interested in reading about my adventures in the world of technology.
 
 ## 🚀 Goals
 
 I'm always looking for new challenges and opportunities to grow as a developer. Currently, I'm working on:
 
 - Building scalable web applications
-- Exploring machine learning and AI
+- Exploring TypeScript and DevOps
 - Contributing to open source projects
 
 ## 🤝 Let's Collaborate
 
-I'm open to collaboration and always excited to work on interesting projects. If you have any cool ideas or need assistance with a project, feel free to [get in touch](https://www.gracygupta.com/contact). Let's create something amazing together!
+I'm open to collaboration and always excited to work on interesting projects. If you have any cool ideas or need assistance with a project, feel free to get in touch. Let's create something amazing together!
+
+## 📊 GitHub Stats
+
+[![Gracy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gracygupta&show_icons=true&theme=radical)](https://github.com/gracygupta)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracygupta&layout=compact&theme=radical)](https://github.com/gracygupta)
 
 Thanks for stopping by, and happy coding! 🚀
