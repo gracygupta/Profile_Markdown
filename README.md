@@ -2,7 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/gracygupta?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/gracygupta?style=social)
-![GitHub Contributions](https://img.shields.io/github/contributors/gracygupta?style=flat)
+![GitHub Contributions](https://img.shields.io/github/contributors/gracygupta?style=social)
 
 Hello, I'm Gracy Gupta, and I'm passionate about coding, technology, and open source contributions. I love building innovative projects and exploring the vast world of software development. Here's a bit about me:
 
